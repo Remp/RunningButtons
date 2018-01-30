@@ -1,0 +1,18 @@
+C:\Users\Кирилл\Documents\Visual Studio 2015\Projects\1_Courses\RunningButtons\RunningButtons\bin\Debug\RunningButtons.exe.config
+C:\Users\Кирилл\Documents\Visual Studio 2015\Projects\1_Courses\RunningButtons\RunningButtons\bin\Debug\RunningButtons.exe
+C:\Users\Кирилл\Documents\Visual Studio 2015\Projects\1_Courses\RunningButtons\RunningButtons\bin\Debug\RunningButtons.pdb
+C:\Users\Кирилл\Documents\Visual Studio 2015\Projects\1_Courses\RunningButtons\RunningButtons\obj\Debug\RunningButtons.csprojResolveAssemblyReference.cache
+C:\Users\Кирилл\Documents\Visual Studio 2015\Projects\1_Courses\RunningButtons\RunningButtons\obj\Debug\RunningButtons.Form1.resources
+C:\Users\Кирилл\Documents\Visual Studio 2015\Projects\1_Courses\RunningButtons\RunningButtons\obj\Debug\RunningButtons.Properties.Resources.resources
+C:\Users\Кирилл\Documents\Visual Studio 2015\Projects\1_Courses\RunningButtons\RunningButtons\obj\Debug\RunningButtons.csproj.GenerateResource.Cache
+C:\Users\Кирилл\Documents\Visual Studio 2015\Projects\1_Courses\RunningButtons\RunningButtons\obj\Debug\RunningButtons.exe
+C:\Users\Кирилл\Documents\Visual Studio 2015\Projects\1_Courses\RunningButtons\RunningButtons\obj\Debug\RunningButtons.pdb
+E:\VisualStudio\Projects\1_Courses\RunningButtons\RunningButtons\bin\Debug\RunningButtons.exe.config
+E:\VisualStudio\Projects\1_Courses\RunningButtons\RunningButtons\bin\Debug\RunningButtons.exe
+E:\VisualStudio\Projects\1_Courses\RunningButtons\RunningButtons\bin\Debug\RunningButtons.pdb
+E:\VisualStudio\Projects\1_Courses\RunningButtons\RunningButtons\obj\Debug\RunningButtons.csprojResolveAssemblyReference.cache
+E:\VisualStudio\Projects\1_Courses\RunningButtons\RunningButtons\obj\Debug\RunningButtons.Form1.resources
+E:\VisualStudio\Projects\1_Courses\RunningButtons\RunningButtons\obj\Debug\RunningButtons.Properties.Resources.resources
+E:\VisualStudio\Projects\1_Courses\RunningButtons\RunningButtons\obj\Debug\RunningButtons.csproj.GenerateResource.Cache
+E:\VisualStudio\Projects\1_Courses\RunningButtons\RunningButtons\obj\Debug\RunningButtons.exe
+E:\VisualStudio\Projects\1_Courses\RunningButtons\RunningButtons\obj\Debug\RunningButtons.pdb
